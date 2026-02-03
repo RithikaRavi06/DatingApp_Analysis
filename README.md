@@ -1,4 +1,5 @@
 # DatingApp_Analysis
+This project analyzes user engagement patterns on dating apps by examining how demographic and preference-related factors influence matches, conversations, and ghosting behavior. The goal of this project is to better understand modern online dating interactions and identify patterns that can improve user experience and platform design. 
 
 ## Overview
 This project analyzes user engagement patterns on dating apps by examining how demographic and preference-related factors influence matches, conversations, and ghosting behavior. The goal of this project is to better understand modern online dating interactions and identify patterns that can improve user experience and platform design.
